@@ -1,0 +1,5 @@
+export const BaseDrink = 'BaseDrink'
+export const Ingredient = 'Ingredient'
+export const BaseFood = 'BaseFood'
+export const Event = 'Event'
+export const Employee = 'Employee'
